@@ -1,0 +1,21 @@
+✅ TOMORROW'S ACTION PLAN – SUMMARY CHECKLIST
+
+📘 LeetCode Practice
+☐ Solve: Palindrome Number – https://leetcode.com/problems/palindrome-number/
+☐ Solve: Maximum Subarray – https://leetcode.com/problems/maximum-subarray/
+☐ Upload both solutions to GitHub with clean code and comments
+
+💼 Job Search
+☐ Apply to 2 new jobs (suggested platforms: AngelList, Dice.com)
+   - Focus: Junior Python Developer / Entry-Level Software Engineer roles
+
+🧾 GitHub Maintenance
+☐ Add or update README.md to LeetCode repo
+☐ Add helpful repo tags (e.g., interview-prep, Python, algorithms)
+
+📚 Light Learning (Optional)
+☐ Watch intro to Flask or read about REST API basics
+   - Flask video: https://www.youtube.com/watch?v=Z1RJmh_OqeA
+   - REST API guide: https://restfulapi.net/
+
+🎯 Focus: Stay consistent, stay positive. You're doing great.
