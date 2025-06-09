@@ -7,7 +7,7 @@
 | LeetCode Practice     | Upload both solutions to GitHub with clean code and comments                     | ✅      |
 | Job Search            | Apply to 2 new jobs (LinkedIn, Indeed, or AngelList)                             | ✅      |
 | GitHub Maintenance    | Add new LeetCode files and update README.md if needed                            | ✅      |
-| Light Learning (Optional) | Watch: Intro to Git & GitHub for beginners (https://www.youtube.com/watch?v=RGOj5yH7evk) | ☐      |
-| Light Learning (Optional) | Read: Python Decorators – Real Python (https://realpython.com/primer-on-python-decorators/) | ☐      |
+| Light Learning (Optional) | Watch: Intro to Git & GitHub for beginners (https://www.youtube.com/watch?v=RGOj5yH7evk) | X      |
+| Light Learning (Optional) | Read: Python Decorators – Real Python (https://realpython.com/primer-on-python-decorators/) | ✅      |
 
 🎯 **Daily Goal**: Stay consistent, no pressure to be perfect. Small steps = big progress.
