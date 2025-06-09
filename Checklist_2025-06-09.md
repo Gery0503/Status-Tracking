@@ -9,6 +9,6 @@
 | Resume modification    | Update MTK part for more information                                           | ☐      |
 | Light Learning  | Learn CodeGPT to help code review and commit message (https://github.com/appleboy/CodeGPT) | ☐      |
 | Light Learning (Optional) | Watch: What is REST? (https://www.youtube.com/watch?v=Q-BpqyOT3a8)            | ☐      |
-| Light Learning (Optional) | Read: Introduction to Git Branching (https://www.atlassian.com/git/tutorials/using-branches) | ☐      |
+| Light Learning (Optional) | Read: Introduction to Git Branching (https://www.atlassian.com/git/tutorials/using-branches) | ✅      |
 
 🎯 **Daily Goal**: Keep your routine strong and your mindset steady. You're making visible progress!
