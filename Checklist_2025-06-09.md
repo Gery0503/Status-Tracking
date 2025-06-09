@@ -1,4 +1,4 @@
-# 📌 2025-06-09 – Daily Action Plan
+# 📌 2025-06-09 – Daily Action Plan (Completed)
 
 | Task Category         | Task Description                                                                 | Status |
 |----------------------|------------------------------------------------------------------------------------|--------|
@@ -7,7 +7,7 @@
 | LeetCode Practice     | Upload both solutions to GitHub with clean code and comments                     | ✅      |
 | Job Search            | Apply to 2 new jobs (LinkedIn, Dice, or AngelList)                               | ✅      |
 | Resume modification    | Update MTK part for more information                                           | ✅      |
-| Light Learning  | Learn CodeGPT to help code review and commit message (https://github.com/appleboy/CodeGPT) | ☐      |
+| Light Learning  | Learn CodeGPT to help code review and commit message (https://github.com/appleboy/CodeGPT) | ✅      |
 | Light Learning (Optional) | Watch: What is REST? (https://www.youtube.com/watch?v=Q-BpqyOT3a8)            | ✅      |
 | Light Learning (Optional) | Read: Introduction to Git Branching (https://www.atlassian.com/git/tutorials/using-branches) | ✅      |
 
