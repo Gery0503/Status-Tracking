@@ -9,4 +9,4 @@
 | GitHub Maintenance | Add or update README.md to LeetCode repo | ✅ |
 | GitHub Maintenance | Add helpful repo tags (e.g., interview-prep, Python, algorithms) | X |
 | Light Learning (Optional) | Watch intro to Flask (https://www.youtube.com/watch?v=Z1RJmh_OqeA) | X |
-| Light Learning (Optional) | Read REST API guide (https://restfulapi.net/) | ☐ |
+| Light Learning (Optional) | Read REST API guide (https://restfulapi.net/) | ✅ |

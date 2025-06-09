@@ -111,3 +111,5 @@ Let me know if you'd like to dive deeper into any specific part—like HATEOAS, 
 [9]: https://en.wikipedia.org/wiki/HATEOAS?utm_source=chatgpt.com "HATEOAS"
 [10]: https://restfulapi.net/rest-api-best-practices/?utm_source=chatgpt.com "REST API Best Practices"
 [11]: https://restfulapi.net/rest-api-design-for-long-running-tasks/?utm_source=chatgpt.com "REST API Design for Long-Running Tasks - REST API Tutorial"
+
+(Generated from ChatGPT)
