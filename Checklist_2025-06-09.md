@@ -3,7 +3,7 @@
 | Task Category         | Task Description                                                                 | Status |
 |----------------------|------------------------------------------------------------------------------------|--------|
 | LeetCode Practice     | Solve: Binary Search (https://leetcode.com/problems/binary-search/)              | ✅      |
-| LeetCode Practice     | Solve: First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/) | ☐      |
+| LeetCode Practice     | Solve: First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅      |
 | LeetCode Practice     | Upload both solutions to GitHub with clean code and comments                     | ✅      |
 | Job Search            | Apply to 2 new jobs (LinkedIn, Dice, or AngelList)                               | ✅      |
 | Resume modification    | Update MTK part for more information                                           | ☐      |
