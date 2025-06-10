@@ -1,8 +1,8 @@
-# ✅ 2025-06-10 – Daily Action Plan
+# 📌 2025-06-10 – Daily Action Plan
 
 | Task Category         | Task Description                                                                 | Status |
 |----------------------|------------------------------------------------------------------------------------|--------|
-| LeetCode Practice     | Solve: Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)  | ☐      |
+| LeetCode Practice     | Solve: Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)  | ✅      |
 | LeetCode Practice     | Solve: Intersection of Two Linked Lists (https://leetcode.com/problems/intersection-of-two-linked-lists/) | ☐      |
 | LeetCode Practice     | Upload both solutions to GitHub with clean code and comments                     | ☐      |
 | Job Search            | Apply to 2 new jobs (LinkedIn, Dice, or AngelList)                               | ☐      |
