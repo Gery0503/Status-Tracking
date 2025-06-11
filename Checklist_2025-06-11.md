@@ -1,4 +1,4 @@
-# 📌 2025-06-11 – Daily Action Plan
+# 📌 2025-06-11 – Daily Action Plan (Completed)
 
 | Task Category         | Task Description                                                                 | Status |
 |----------------------|------------------------------------------------------------------------------------|--------|
@@ -6,8 +6,8 @@
 | LeetCode Practice     | Solve: Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)        | ✅      |
 | Job Search            | Apply to 3 new jobs (LinkedIn, Dice, or AngelList)                               | ✅      |
 | Light Learning (Optional) | **Watch**: FastAPI crash course [FastAPI Crash Course Ep 1: Build a To‑Do List API in 10 Minutes](https://www.youtube.com/watch?v=lmHltbt9ct8) ([youtube.com][1], [atlassian.com][2]) [~10 mins] | ✅      |
-| Light Learning (Optional) | **Read**: Git workflows best practices [Atlassian Git Tutorial – Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) ([atlassian.com][3]) | ☐      |
-| Light Learning (Optional) | **Start**: [Prompt Engineering Specialization – Coursera][4] | ☐      |
+| Light Learning (Optional) | **Read**: Git workflows best practices [Atlassian Git Tutorial – Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) ([atlassian.com][3]) | ✅      |
+| Light Learning (Optional) | **Start**: [Prompt Engineering Specialization – Coursera][4] | X, Seems too outdated      |
 
 🎯 **Daily Goal**: Show up and stay steady. Progress compounds. You're doing great.
 
