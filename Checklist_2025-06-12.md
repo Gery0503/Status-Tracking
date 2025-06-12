@@ -2,8 +2,8 @@
 
 | Task Category         | Task Description                                                                 | Status |
 |----------------------|------------------------------------------------------------------------------------|--------|
-| LeetCode Practice     | Solve: Ransom Note (https://leetcode.com/problems/ransom-note/)                   | ☐      |
-| LeetCode Practice     | Solve: Move Zeroes (https://leetcode.com/problems/move-zeroes/)                   | ☐      |
+| LeetCode Practice     | Solve: Ransom Note (https://leetcode.com/problems/ransom-note/)                   | ✅      |
+| LeetCode Practice     | Solve: Move Zeroes (https://leetcode.com/problems/move-zeroes/)                   | ✅      |
 | Light Learning (Optional) | **Watch**: Building AI agents with LangChain [Build an AI Agent in 15 Minutes](https://www.youtube.com/watch?v=po8YB7KHTS0) ([youtube.com][1]) [~15 mins] | ☐      |
 | Light Learning (Optional) | **Read**: LangChain Agent Guide [LangChain – Agent Tutorial](https://python.langchain.com/docs/tutorials/agents/) ([langchain.com][2]) | ☐      |
 
