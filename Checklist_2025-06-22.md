@@ -1,7 +1,7 @@
 # 📌 2025-06-22 – Daily Action Plan
 | Task Category                 | Task Description                                                                                                                 | Status |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **LeetCode Practice**         | Solve: **Maximum Depth of Binary Tree** ([LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/))            | ☐      |
+| **LeetCode Practice**         | Solve: **Maximum Depth of Binary Tree** ([LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/))            | ✅      |
 |                               | Solve: **Find the Difference** ([LeetCode 389](https://leetcode.com/problems/find-the-difference/))                              | ☐      |
 | **Project Task**              | Implement core LangChain agent logic in **`app/agent.py`**, include at least one tool (e.g., web search or calculator)           | ☐      |
 | **Light Learning (Optional)** | **Watch**: *LangChain Agents: A Simple, Fast‑Paced Guide* (\~11 min) \[YouTube] ([youtube.com][1], [blogs.adityabh.is-a.dev][2]) | ☐      |
