@@ -2,7 +2,7 @@
 
 | Task Category         | Task Description                                                                                                 | Status |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|--------|
-| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/) - Working with Files and Directories (cmd: touch, mkdir, mv, cp)                | ✅      |
+| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/module/18/section/78) - Working with Files and Directories (cmd: touch, mkdir, mv, cp)                | ✅      |
 | 🧠 LeetCode Practice   | Solve: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/)                | ✅      |
 | 🐍 Python Scripting    | Write a Python script to monitor system memory usage and log warning if usage exceeds 80%                         | ☐      |
 
