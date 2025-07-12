@@ -2,7 +2,7 @@
 
 | Task Category         | Task Description                                                                                                   | Status |
 |----------------------|----------------------------------------------------------------------------------------------------------------------|--------|
-| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/)                     | ☐      |
+| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/)                     | ✅      |
 | 🧠 LeetCode Practice   | Solve: Single Number (https://leetcode.com/problems/single-number/)                                                | ✅      |
 | 📜 Bash Scripting      | Write a Bash script to check which systemd services failed and send notification/log to a file                     | ☐      |
 
