@@ -2,7 +2,7 @@
 
 | Task Category         | Task Description                                                                                                             | Status |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------|--------|
-| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/module/18/section/81)    -     Find Files and Directories                     | ✅      |
+| 🐧 Linux Practice      | Complete 1 Linux module or terminal challenge on [HTB Academy](https://academy.hackthebox.com/module/18/section/81)    -     Find Files and Directories  (cmd: which, find, locate)                   | ✅      |
 | 🧠 LeetCode Practice   | Solve: Valid Perfect Square (https://leetcode.com/problems/valid-perfect-square/)                                          | ✅      |
 | 🐍 Python Scripting    | Write a script that checks running processes and logs all Python processes to `/tmp/python_processes.log`                  | ☐      |
 
