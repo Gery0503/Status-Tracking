@@ -1,0 +1,43 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+        "label": "Git Add Commit Push for Update status",
+        "type": "shell",
+        "command": "git",
+        "args": [
+            "add",
+            "."
+        ],
+        "problemMatcher": [],
+        "dependsOn": [
+            "Git Commit",
+            "Git Push"
+        ]
+        },
+        {
+        "label": "Git Commit",
+        "type": "shell",
+        "command": "git",
+        "args": [
+            "commit",
+            "-m",
+            "Update status"
+        ],
+        "problemMatcher": [],
+        "dependsOn": []
+        },
+        {
+        "label": "Git Push",
+        "type": "shell",
+        "command": "git",
+        "args": [
+            "push"
+        ],
+        "problemMatcher": [],
+        "dependsOn": []
+        }
+    ]
+}
