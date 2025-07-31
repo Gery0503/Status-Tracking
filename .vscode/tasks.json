@@ -13,6 +13,17 @@
         "isDefault": true
       },
       "detail": "Runs git add, commit, and push in one task"
+    },
+    {
+      "label": "Git Add Commit Push new plan",
+      "type": "shell",
+      "command": "git add . && git commit -m \"Add new plan today\" && git push",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Runs git add, commit, and push in one task"
     }
   ]
 }
