@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
     {
-      "label": "Git Add Commit Push",
+      "label": "Git Add Commit Push - Update status",
       "type": "shell",
       "command": "git add . && git commit -m \"Update status\" && git push",
       "problemMatcher": [],
@@ -15,9 +15,20 @@
       "detail": "Runs git add, commit, and push in one task"
     },
     {
-      "label": "Git Add Commit Push new plan",
+      "label": "Git Add Commit Push - Add new plan today",
       "type": "shell",
       "command": "git add . && git commit -m \"Add new plan today\" && git push",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Runs git add, commit, and push in one task"
+    },
+    {
+      "label": "Git Add Commit Push - Update tasks.json",
+      "type": "shell",
+      "command": "git add .vscode/tasks.json && git commit -m \"Update tasks.json\" && git push",
       "problemMatcher": [],
       "group": {
         "kind": "build",
