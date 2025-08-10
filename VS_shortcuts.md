@@ -1,0 +1,1 @@
+Ctrl+Shift+N Open new VS code window

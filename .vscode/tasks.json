@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
     {
-      "label": "Git Add Commit Push - Update status",
+      "label": "Git Add Commit Push - Update everything",
       "type": "shell",
-      "command": "git add . && git commit -m \"Update status\" && git push",
+      "command": "git add . && git commit -m \"Update everything\" && git push",
       "problemMatcher": [],
       "group": {
         "kind": "build",
@@ -25,16 +25,5 @@
       },
       "detail": "Runs git add, commit, and push in one task"
     },
-    {
-      "label": "Git Add Commit Push - Update tasks.json",
-      "type": "shell",
-      "command": "git add .vscode/tasks.json && git commit -m \"Update tasks.json\" && git push",
-      "problemMatcher": [],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "detail": "Runs git add, commit, and push in one task"
-    }
   ]
 }
