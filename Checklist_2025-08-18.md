@@ -1,5 +1,5 @@
-| Task Category        | Task Description                                                                                                                             | Status |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 🧠 LeetCode Practice | Solve: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Prefix Sum + HashMap pattern, very interview-relevant) | ☐      |
-| 🧪 Work Enhancement  | Design an n8n workflow that automatically pulls your solved LeetCode problem stats and logs them into Google Sheets or Notion                | ☐      |
-| 🐧 Linux Practice    | Explore 1 file permissions & ownership exercise on [HTB Academy](https://academy.hackthebox.com/)                                            | ☐      |
+| Task Category        | Task Description                                                                                                                   | Status |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 🧠 LeetCode Practice | Solve: [Relative Ranks](https://leetcode.com/problems/relative-ranks/) (array + sorting + mapping, good practice for fundamentals) | ☐      |
+| 🧪 Work Enhancement  | Expand your n8n automation to include **daily task reminders** sent to Slack/Email                                                 | ☐      |
+| 🐧 Linux Practice    | Complete 1 Linux **process management** exercise on [HTB Academy](https://academy.hackthebox.com/)                                 | ☐      |
