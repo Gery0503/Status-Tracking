@@ -6,7 +6,7 @@ Here’s your **Daily Action Plan for 2025-08-24**, with a fresh **easy LeetCode
 
 | Task Category        | Task Description                                                                                                                  | Status |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 🧠 LeetCode Practice | Solve: [Assign Cookies](https://leetcode.com/problems/assign-cookies/) (greedy algorithm intro, simple but useful pattern)        | ☐      |
+| 🧠 LeetCode Practice | Solve: [Assign Cookies](https://leetcode.com/problems/assign-cookies/) (greedy algorithm intro, simple but useful pattern)        | ✅      |
 | 🧪 Work Enhancement  | Build or enhance an n8n workflow for **automated job search tracking** (e.g., log applied jobs + status updates in Notion/Sheets) | ☐      |
 | 🐧 Linux Practice    | Explore **networking basics** in Linux (`ping`, `netstat`, `ss`, `traceroute`) on [HTB Academy](https://academy.hackthebox.com/)  | ☐      |
 
