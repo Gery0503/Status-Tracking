@@ -2,7 +2,7 @@
 
 | Task Category        | Task (short title + link)                                          | Status |
 | -------------------- | ------------------------------------------------------------------ | ------ |
-| 🧠 LeetCode Practice | Solve: [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | ☐      |
+| 🧠 LeetCode Practice | Solve: [Happy Number](https://leetcode.com/problems/happy-number/) | ☐      |
 | 🧪 Work Enhancement  | Topic: Obsidian – Backlinks & Graph View                           | ☐      |
 | 🐧 Linux Learning    | Command: `xargs` — build & execute commands from input             | ☐      |
 
