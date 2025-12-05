@@ -1,0 +1,45 @@
+### 🗓️ `{{date:YYYY-MM-DD}}` — Dallas Readiness Daily Plan
+
+**1. 🌞 Morning Intention**
+
+- Today I want to feel: 
+    
+- One focus word: 
+    
+- What’s one thing I can do to feel balanced today?
+    
+
+**2. 🧘‍♀️ Mindset Practice**
+
+- Reflection / prompt of the day:
+    
+    > 
+    
+- Notes: 
+    
+
+**3. 🗣️ English Confidence Practice**
+
+- Today’s task:
+    
+    > 
+    
+- Self-rating (1–5): 
+    
+- New words / phrases learned: 
+    
+
+**4. 💭 End-of-Day Reflection**
+
+- What went well today: 
+    
+- What challenged me: 
+    
+- One sentence to encourage myself: 
+    
+
+**5. 🪶 Highlights / Learnings**
+
+- 💡 Insight of the day: 
+    
+- 🧠 Lesson I’ll carry forward: 
