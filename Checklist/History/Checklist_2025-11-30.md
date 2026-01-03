@@ -7,8 +7,8 @@
 | Category                   | Task                                                              | Status |
 | -------------------------- | ----------------------------------------------------------------- | ------ |
 | 🧠 LeetCode Practice       | **942. DI String Match**                                          | ✅      |
-| 🖥️ Server Building Basics | Topic: **Server BIOS / UEFI Configuration — What to check & why** | ⬜      |
-| 🐧 Linux Learning          | Command: **`sed`**                                                | ⬜      |
+| 🖥️ Server Building Basics | Topic: **Server BIOS / UEFI Configuration — What to check & why** | ✅      |
+| 🐧 Linux Learning          | Command: **`sed`**                                                | ✅      |
 
 ---
 

@@ -49,23 +49,20 @@
 
 **Tag:** #Linux/Command/rsync #Backup 
 **What it is:** `rsync` synchronizes files/directories between locations, efficiently transferring only changed parts and preserving permissions, links, etc.  
-**Scenario:** You want to back up your project folder to an external drive or remote server nightly, ensuring only changed files get copied to save time and bandwidth.  
+
+**Scenario:** You want to back up your project folder to an external drive or remote server nightly, ensuring only changed files get copied to save time and bandwidth. 
+
 **Quick commands / cheatsheet:**
 
 - Basic sync: `rsync -av ~/projects/ /mnt/backup/projects/` (archive + verbose)
-    
 - Use deletion to mirror: `rsync -av --delete ~/projects/ /mnt/backup/projects/`
-    
 - Remote sync: `rsync -av ~/projects/ user@server:/backup/projects/`  
     **Why useful:** Faster than tar+scp for large incremental backups, preserves file metadata, good for mirroring or migration tasks.  
-    **Practice tasks:**
     
+**Practice tasks:**
 - Task A: `rsync -av ~/some_small_folder/ ~/some_backup_folder/` and verify contents.
-    
 - Task B: Modify one file, run `rsync` again, verify only delta copied.
-    
 - Task C: Add `--delete` option for mirror behavior, and check that deleted files in source are also removed in backup.
-    
 
 ---
 
