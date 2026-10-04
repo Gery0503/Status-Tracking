@@ -3,8 +3,8 @@
 | **Category**         | **Task**                                        | **Status** |
 | -------------------- | ----------------------------------------------- | ---------- |
 | 🧠 LeetCode Practice | **15. 3Sum** (Array / Two Pointers)             | ✅          |
-| ⚙️ DevOps Essentials | **Docker Basics: Multi-Stage Builds**           | 🔲         |
-| 🐧 Linux Learning    | Command: **`journalctl`** (Systemd Log Manager) | 🔲         |
+| ⚙️ DevOps Essentials | **Docker Basics: Multi-Stage Builds**           | ✅          |
+| 🐧 Linux Learning    | Command: **`journalctl`** (Systemd Log Manager) | ✅          |
 
 ## 🧠 LeetCode — **15. 3Sum** Tags: #Array #TwoPointers #Sorting
 
